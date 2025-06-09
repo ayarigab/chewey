@@ -1,0 +1,105 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "DecapitalGrille",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "DecapitalGrille (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "DecapitalGrille (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "fluttericonsnackbar",
+            "cwd": "packages/fluttericonsnackbar",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "fluttericonsnackbar (profile mode)",
+            "cwd": "packages/fluttericonsnackbar",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "fluttericonsnackbar (release mode)",
+            "cwd": "packages/fluttericonsnackbar",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "niel_spins",
+            "cwd": "packages/niel_spins",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "niel_spins (profile mode)",
+            "cwd": "packages/niel_spins",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "niel_spins (release mode)",
+            "cwd": "packages/niel_spins",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "paystack",
+            "cwd": "packages/paystack",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "paystack (profile mode)",
+            "cwd": "packages/paystack",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "paystack (release mode)",
+            "cwd": "packages/paystack",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "woocommerce",
+            "cwd": "packages/woocommerce",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "woocommerce (profile mode)",
+            "cwd": "packages/woocommerce",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "woocommerce (release mode)",
+            "cwd": "packages/woocommerce",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "525522327751",
+    "project_id": "decapitalgrille-restaurant",
+    "storage_bucket": "decapitalgrille-restaurant.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525522327751:android:10374bc786970cc40086e2",
+        "android_client_info": {
+          "package_name": "com.decapitalgrille.restaurant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgf2ptRLOVF_NNTG51YM5v8rd5Atq1rJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
